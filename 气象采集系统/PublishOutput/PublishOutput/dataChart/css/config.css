@@ -1,0 +1,53 @@
+﻿#page1_jPanel1{
+  width: 100%;
+  min-height: 20px;
+}
+
+#page1_jAbsolutediv1{
+  left: 418px;
+  top: 75px;
+  height: 103px;
+  width: 304px;
+  position:absolute;
+}
+
+#page1_jAbsolutediv2{
+  left: 174px;
+  top: 75px;
+  height: 100px;
+  width: 101px;
+  position:absolute;
+}
+
+#page1_jChart1{
+  height: 453px;
+}
+
+#page1_jAbsolutediv4{
+  left: 100px;
+  top: 186px;
+  height: 462px;
+  width: 860px;
+  position:absolute;
+}
+
+#page1_jAbsolutediv3{
+  left: 820px;
+  top: 98px;
+  height: 47px;
+  width: 71px;
+  position:absolute;
+}
+
+#page1_jLabel3{
+  font-weight: bold;
+}
+
+#page1_jAbsolutediv5{
+  left: 484px;
+  top: 167px;
+  height: 39px;
+  width: 87px;
+  position:absolute;
+}
+

@@ -1,0 +1,32 @@
+﻿#page1_jAbsolutediv1{
+  left: 122px;
+  top: 56px;
+  height: 92px;
+  width: 124px;
+  position:absolute;
+}
+
+#page1_jAbsolutediv2{
+  left: 253px;
+  top: 58px;
+  height: 93px;
+  width: 326px;
+  position:absolute;
+}
+
+#page1_jAbsolutediv3{
+  left: 603px;
+  top: 75px;
+  height: 98px;
+  width: 480px;
+  position:absolute;
+}
+
+#page1_jAbsolutediv4{
+  left: 0px;
+  top: 173px;
+  height: 489px;
+  width: 1586px;
+  position:absolute;
+}
+

@@ -1,0 +1,169 @@
+﻿body{font-size:12px;}
+
+#page1_jChart1{
+  left: 31px;
+  top: 8px;
+  height: 238px;
+  width: 718px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page1_jTable1{
+  left: 24px;
+  top: 304px;
+  height: 282px;
+  width: 1032px;
+}
+
+#page3_jLabel1{
+  left: 167px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page3_jLabel2{
+  left: 279px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page3_jComboBox1{
+  left: 167px;
+  top: 34px;
+  height:29px;
+  width:75px;
+}
+
+#page3_jComboBox1 select{
+  height:  31px;
+}
+
+#page3_jComboBox1:after{
+  margin-top:8px;
+}
+
+#page3_jLabel4{
+  left: 584px;
+  top: 23px;
+  line-height: 14px;
+}
+
+#page3_jDateTimePicker1{
+  left: 277px;
+  top: 38px;
+  width: 113px;
+  height:  23px;
+}
+
+#page3_jDateTimePicker1 input[type=text]{
+  width: 111px;
+  height: 20px;
+}
+
+#page3_jUpDownEdit1{
+  left: 405px;
+  top: 38px;
+  height: 20px;
+  width: 36px;
+  position:absolute;
+}
+
+#page3_jUpDownEdit1_input{
+  height: 20px;
+  width: 36px;
+}
+
+#page3_jUpDownEdit2{
+  left: 474px;
+  top: 39px;
+  height: 20px;
+  width: 34px;
+  position:absolute;
+}
+
+#page3_jUpDownEdit2_input{
+  height: 20px;
+  width: 34px;
+}
+
+#page3_jDateTimePicker2{
+  left: 580px;
+  top: 40px;
+  width: 114px;
+  height:  24px;
+}
+
+#page3_jDateTimePicker2 input[type=text]{
+  width: 112px;
+  height: 21px;
+}
+
+#page3_jUpDownEdit3{
+  left: 710px;
+  top: 41px;
+  height: 20px;
+  width: 38px;
+  position:absolute;
+}
+
+#page3_jUpDownEdit3_input{
+  height: 20px;
+  width: 38px;
+}
+
+#page3_jUpDownEdit4{
+  left: 780px;
+  top: 41px;
+  height: 20px;
+  width: 36px;
+  position:absolute;
+}
+
+#page3_jUpDownEdit4_input{
+  height: 20px;
+  width: 36px;
+}
+
+#page3_jButton1{
+  left: 873px;
+  top: 36px;
+  width:79px;
+  height:26px;
+}
+
+#page3_jTable1{
+  left: 74px;
+  top: 136px;
+  height: 330px;
+  width: 900px;
+}
+
+#page3_jButton6{
+  left: 308px;
+  top: 691px;
+  width:67px;
+  height:20px;
+}
+
+#page3_jButton7{
+  left: 388px;
+  top: 691px;
+  width:67px;
+  height:20px;
+}
+
+#page3_jButton8{
+  left: 468px;
+  top: 691px;
+  width:67px;
+  height:20px;
+}
+
+#page3_jButton9{
+  left: 548px;
+  top: 691px;
+  width:67px;
+  height:20px;
+}
+

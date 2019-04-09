@@ -1,0 +1,31 @@
+﻿body{font-size:12px;}
+
+#page1_jComboBox1{
+  left: 6px;
+  top: 26px;
+  height:32px;
+  width:97px;
+}
+
+#page1_jComboBox1 select{
+  height:  34px;
+}
+
+#page1_jComboBox1:after{
+  margin-top:10px;
+}
+
+#page1_jTable1{
+  left: 115px;
+  top: 22px;
+  height: 482px;
+  width: 1067px;
+}
+
+#page1_jButton1{
+  left: 9px;
+  top: 81px;
+  width:67px;
+  height:29px;
+}
+

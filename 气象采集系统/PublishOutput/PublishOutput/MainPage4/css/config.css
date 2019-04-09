@@ -1,0 +1,99 @@
+﻿body{font-size:12px;}
+
+#page12_jLabel1{
+  left: 15px;
+  top: 33px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #10AEFF;
+  line-height: 38px;
+}
+
+#page12_jLabel2{
+  left: 306px;
+  top: 32px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #10AEFF;
+  line-height: 38px;
+}
+
+#page12_jLabel4{
+  left: 553px;
+  top: 31px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #10AEFF;
+  line-height: 38px;
+}
+
+#page12_jLabel3{
+  left: 778px;
+  top: 28px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #10AEFF;
+  line-height: 38px;
+}
+
+#page12_jLabel5{
+  left: 1020px;
+  top: 31px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #10AEFF;
+  line-height: 38px;
+}
+
+#page12_jChart1{
+  left: 5px;
+  top: 71px;
+  height: 242px;
+  width: 299px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page12_jChart5{
+  left: 304px;
+  top: 72px;
+  height: 241px;
+  width: 230px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page12_jChart3{
+  left: 535px;
+  top: 71px;
+  height: 242px;
+  width: 244px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page12_jChart2{
+  left: 779px;
+  top: 71px;
+  height: 242px;
+  width: 247px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page12_jChart4{
+  left: 1026px;
+  top: 72px;
+  height: 242px;
+  width: 258px;
+  border-style:solid;
+  border-width:1pt;
+}
+
+#page12_jTable1{
+  left: 6px;
+  top: 353px;
+  height: 192px;
+  width: 1226px;
+}
+

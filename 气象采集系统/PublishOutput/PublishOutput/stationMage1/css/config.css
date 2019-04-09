@@ -1,0 +1,49 @@
+﻿#page1_jAbsolutediv2{
+  left: 80px;
+  top: 161px;
+  height: 424px;
+  width: 997px;
+  position:absolute;
+}
+
+#page1_jAbsolutediv1{
+  left: 254px;
+  top: 61px;
+  height: 67px;
+  width: 479px;
+  position:absolute;
+}
+
+#page2_jAbsolutediv1{
+  left: 318px;
+  top: 44px;
+  height: 133px;
+  width: 299px;
+  position:absolute;
+}
+
+#page2_jAbsolutediv2{
+  left: 70px;
+  top: 191px;
+  height: 424px;
+  width: 954px;
+  position:absolute;
+}
+
+#page3_jTable1{
+  height: 150px;
+  width: 400px;
+}
+
+#page4_jLabel1{
+  color: #73FF73;
+}
+
+#page4_jLabel2{
+  color: #007AFF;
+}
+
+#page4_jLabel3{
+  color: #FF0000;
+}
+

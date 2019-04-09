@@ -1,0 +1,45 @@
+﻿body{font-size:12px;}
+
+#page9_jComboBox1{
+  left: 63px;
+  top: 36px;
+  height:26px;
+  width:85px;
+}
+
+#page9_jComboBox1 select{
+  height:  28px;
+}
+
+#page9_jComboBox1:after{
+  margin-top:7px;
+}
+
+#page9_jButton1{
+  left: 63px;
+  top: 82px;
+  width:79px;
+  height:26px;
+}
+
+#page9_jTable1{
+  left: 215px;
+  top: 7px;
+  height: 524px;
+  width: 324px;
+}
+
+#page9_jTable2{
+  left: 542px;
+  top: 9px;
+  height: 30px;
+  width: 634px;
+}
+
+#page9_jImages1{
+  left: 543px;
+  top: 53px;
+  height: 66%;
+  width: 60%;
+}
+
